@@ -4,7 +4,7 @@
 //
 //  Created by Arthur Trampnau on 09/09/24.
 //
-print("Welcom to the PRG Calculator")
+print("Welcome to the PRG Calculator")
 print("Enter a number 1:")
 let a = readLine()
 print("Enter a number 2:")
